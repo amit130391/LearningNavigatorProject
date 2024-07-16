@@ -3,7 +3,7 @@ A RESTful API service using Spring Boot to manage the exam enrollment process fo
 
 ## Postman Collection
 You can access the Postman Collection for this project using the link below:
-[![Run in Postman](https://run.pstmn.io/button.svg)]((https://elements.getpostman.com/redirect?entityId=30015848-9af05fd3-bc3b-4ce6-9d87-f9008d61d678&entityType=collection))
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://elements.getpostman.com/redirect?entityId=30015848-9af05fd3-bc3b-4ce6-9d87-f9008d61d678&entityType=collection)
 
 ## Table of Contents
 - [Features](#features)
